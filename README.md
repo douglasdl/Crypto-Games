@@ -9,6 +9,7 @@
 - [Genopets](https://www.genopets.me/) - [GENE]() / [KI]()
 - [Dogemon GO](https://dogemongo.com/) - [DOGO](https://bscscan.com/address/0x9E6B3E35c8f563B45d864f9Ff697A144ad28A371)
 - [Evoverse](https://evoverse.app/pt/info/) - [EPW]() / [EVS]()
+- [Zodiacs](https://www.zodiacs.me) - [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)
 
 ## DEX (Descentralized Exchange)
 - [PancakeSwap](https://pancakeswap.finance/swap)
