@@ -11,7 +11,7 @@
 - [Evoverse](https://evoverse.app/pt/info/) - [EPW]() / [EVS]()
 - [Zodiacs](https://www.zodiacs.me) - [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)
 - [Hodler Heroes](https://hodlerheroes.org/pt/) - [HHNFT](https://coinmarketcap.com/currencies/hodler-heroes-nft/)
-- [Pegaxy](https://pegaxy.io/) - [PGX]()
+- [Pegaxy](https://pegaxy.io/) - [PGX]() / [VIS]()
 
 ## Listed
 [CoinMarketCap](https://coinmarketcap.com/)
