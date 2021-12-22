@@ -48,7 +48,8 @@
   - Smart Chain - Testnet
 - [Polygon](https://polygon.technology/)
   - [Polygon Mainnet](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
-
+- [Phamtom](https://docs.fantom.foundation/)
+  - [Phamtom Opera](https://docs.fantom.foundation/tutorials/set-up-metamask)
 
 ## Development Tools
 
