@@ -19,6 +19,9 @@
 ## DEX (Descentralized Exchange)
 - [PancakeSwap](https://pancakeswap.finance/swap)
 
+## Bridges
+[anyswap](https://bsc.anyswap.exchange/bridge#/router)
+
 ## Wallet
 - [Metamask](https://metamask.io/)
 - [Phantom](https://phantom.app/)
