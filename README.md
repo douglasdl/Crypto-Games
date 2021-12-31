@@ -28,6 +28,8 @@
 
 ## DEX (Descentralized Exchange)
 - [PancakeSwap](https://pancakeswap.finance/swap)
+- [PooCoin](https://poocoin.app/)
+- [DodoEx](https://dodoex.io/)
 
 ## Bridges
 [anyswap](https://bsc.anyswap.exchange/bridge#/router)
@@ -52,6 +54,7 @@
     - [Ropsten faucet](https://faucet.ropsten.be/)
    - Development networks
 - Solana
+- KuChain
 - Binance
   - [Smart Chain](https://academy.binance.com/pt/articles/connecting-metamask-to-binance-smart-chain)
   - Smart Chain - Testnet
