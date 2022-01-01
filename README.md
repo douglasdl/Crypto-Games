@@ -19,7 +19,8 @@
 | [Zodiacs](https://www.zodiacs.me)             | [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)                   |         |              |              |                                               |
 | [Hodler Heroes](https://hodlerheroes.org/pt/) | [HHNFT](https://coinmarketcap.com/currencies/hodler-heroes-nft/)                              |         |              |              |                                               |
 | [Pegaxy](https://pegaxy.io/)                  | [PGX]()                                                                                       | [VIS]() |              |              |                                               |
-| [Space Crypto](https://www.spacecrypto.io/)   | [SPG](https://bscscan.com/token/0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1)                   | [SPE]() |              |              |                                               |
+| [Space Crypto](https://www.spacecrypto.io/)   | [SPG](https://bscscan.com/token/0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1)                   | [SPE]() |              |              |
+| [Hero Cat](https://www.herocat.io//)   | [HCT](https://bscscan.com/token/0x29A1e54DE0fCE58E1018535d30aF77A9d2D940c4)                   |         |              |              |
 
 
 ## Listed
