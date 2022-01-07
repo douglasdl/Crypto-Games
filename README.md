@@ -27,6 +27,8 @@
 | [Heroes Empires](https://heroesempires.com/)  | [HE](https://bscscan.com/token/0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8)                   |  |              |              |
 | [Turtle Racing](https://www.turtleracing.io/)  | [TURT](https://bscscan.com/token/0xE786d5a4b985bfe5E371F8e94413cFb440f6618a)                   |  |              | 375 TURT             |
 | [Sunflower Farmers](https://sunflower-farmers.com/)  | [SFF](https://polygonscan.com/token/0xdf9B4b57865B403e08c85568442f95c26b7896b0#balances)                   |  |              | ? SFF             |
+| [The Crypto You](https://thecryptoyou.io/home)  | [MILK](https://exchange.babyswap.finance/#/swap?outputCurrency=0xBf37f781473f3b50E82C668352984865eac9853f)                   | [BABY](https://exchange.babyswap.finance/#/swap?outputCurrency=0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657) |              | 50 BABY             |
+
 
 
 
@@ -46,6 +48,15 @@
 ## Wallet
 - [Metamask](https://metamask.io/)
 - [Phantom](https://phantom.app/)
+- [WalletConnect]()
+- [BitKeep]()
+- [ONTO Wallet]()
+- [OneKey]()
+- [Binance Chain]()
+- [SafePal]()
+- [Bitpie]()
+- [Coin98]()
+- [TokenPocket]()
 
 ## Ethereum Protocol Networks
 
