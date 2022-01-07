@@ -27,6 +27,9 @@
 | [Sunflower Farmers](https://sunflower-farmers.com/)  | [SFF](https://polygonscan.com/token/0xdf9B4b57865B403e08c85568442f95c26b7896b0#balances)                   |  | ? SFF              |             |
 | [The Crypto You](https://thecryptoyou.io/home)  | [MILK](https://exchange.babyswap.finance/#/swap?outputCurrency=0xBf37f781473f3b50E82C668352984865eac9853f)                   | [BABY](https://exchange.babyswap.finance/#/swap?outputCurrency=0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657) | 50 BABY             |              |
 | [Mafagafo](https://mafagafo.com/)  | MP                   | Mafagafo NFT |              | 1 GAME PASS (MafaCoins)            |
+| [Crypto Godz](https://cryptogodz.io/)  | [GODZ](https://bscscan.com/token/0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43)                   |  |              |              |
+| [Illuvium](https://www.illuvium.io/)  | [ILV](https://www.binance.com/en/trade/ILV_USDT)                   |  |              |             |
+
 
 
 
@@ -44,6 +47,15 @@
 - [CoinMarketCap](https://coinmarketcap.com/)
 - [CoinGecko](https://www.coingecko.com/pt)
 
+## Centralized Exchanges
+- [Binance](https://www.binance.com/)
+- [Nexo](https://nexo.io/)
+- [1Inch](https://app.1inch.io/)
+- [Sushi](https://app.sushi.com/)
+- [KuCoin](https://trade.kucoin.com/)
+- [OKEx](https://www.okex.com/pt-br/)
+- [CoinSpot](https://www.coinspot.com.au/)
+
 ## DEX (Descentralized Exchange)
 - [PancakeSwap](https://pancakeswap.finance/swap)
 - [PooCoin](https://poocoin.app/)
@@ -53,17 +65,24 @@
 [anyswap](https://bsc.anyswap.exchange/bridge#/router)
 
 ## Wallet
-- [Metamask](https://metamask.io/)
-- [Phantom](https://phantom.app/)
-- [WalletConnect]()
-- [BitKeep]()
-- [ONTO Wallet]()
+- [Binance Chain](https://www.binance.com/en/wallet-direct)
+- [Bitpie](https://bitpie.com/)
+- [BitKeep](https://bitkeep.org/)
+- [Clover](https://clover.finance/)
+- [Coin98](https://coin98.com/)
+- [Coinbase Wallet](https://www.coinbase.com/)
+- [Fortmatic](https://fortmatic.com/)
+- [Keystone](https://keyst.one/)
+- [Lattice](https://gridplus.io/products/grid-lattice1)
 - [OneKey]()
-- [Binance Chain]()
+- [ONTO Wallet]()
+- [Phantom](https://phantom.app/)
+- [Portis]()
+- [Metamask](https://metamask.io/)
 - [SafePal]()
-- [Bitpie]()
-- [Coin98]()
 - [TokenPocket]()
+- [Torus]()
+- [WalletConnect]()
 
 ## Ethereum Protocol Networks
 
