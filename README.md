@@ -32,6 +32,8 @@
 
 | Failed Games                                           | Token                                                                                         | Token 2 | Initial Cost | Daily Income | Other                                         |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------|---------|--------------|--------------|-----------------------------------------------|
+| [Plant vs Undead](https://plantvsundead.com/)             | [PVU](https://pancakeswap.finance/swap?outputCurrency=0x31471e0791fcdbe82fbf4c44943255e923f1b794)                   |         | PVU     |              |                                               |
+| [Crypto Mines](https://cryptomines.app/)             | [CRUX](https://bscscan.com/address/0xe0191fefdd0d2b39b1a2e4e029ccda8a481b7995)                   |         |      |              |                                               |
 | [Zodiacs](https://www.zodiacs.me)             | [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)                   |         | 3500 ZDC     |              |                                               |
 | [Z Plane](https://www.zplane.me/)             | [ZPL](https://bscscan.com/token/)                   |         | 210 ZPL     |              |                                               |
 
