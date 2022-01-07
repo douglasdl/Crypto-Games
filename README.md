@@ -16,8 +16,6 @@
 | [Genopets](https://www.genopets.me/)          | [GENE]()                                                                                      | [KI]()  |              |              |                                               |
 | [Dogemon GO](https://dogemongo.com/)          | [DOGO](https://bscscan.com/address/0x9E6B3E35c8f563B45d864f9Ff697A144ad28A371)                |         |              |              |                                               |
 | [Evoverse](https://evoverse.app/pt/info/)     | [EPW]()                                                                                       | [EVS]() |              |              |                                               |
-| [Zodiacs](https://www.zodiacs.me)             | [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)                   |         | 3500 ZDC     |              |                                               |
-| [Z Plane](https://www.zplane.me/)             | [ZPL](https://bscscan.com/token/)                   |         | 210 ZPL     |              |                                               |
 | [Hodler Heroes](https://hodlerheroes.org/pt/) | [HHNFT](https://coinmarketcap.com/currencies/hodler-heroes-nft/)                              |         |              |              |                                               |
 | [Pegaxy](https://pegaxy.io/)                  | [PGX]()                                                                                       | [VIS]() |              |              |                                               |
 | [Space Crypto](https://www.spacecrypto.io/)   | [SPG](https://bscscan.com/token/0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1)                   | [SPE]() |              |              |
@@ -25,19 +23,24 @@
 | [Crypto Ships](https://cryptoships.club/)     | [CSHIP](https://bscscan.com/token/)                   |         | 500 CSHIP             | 18 CSHIP             |
 | [Rise City](https://risecity.io/)             | []()                   |  |              |              |
 | [Heroes Empires](https://heroesempires.com/)  | [HE](https://bscscan.com/token/0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8)                   |  |              |              |
-| [Turtle Racing](https://www.turtleracing.io/)  | [TURT](https://bscscan.com/token/0xE786d5a4b985bfe5E371F8e94413cFb440f6618a)                   |  |              | 375 TURT             |
-| [Sunflower Farmers](https://sunflower-farmers.com/)  | [SFF](https://polygonscan.com/token/0xdf9B4b57865B403e08c85568442f95c26b7896b0#balances)                   |  |              | ? SFF             |
-| [The Crypto You](https://thecryptoyou.io/home)  | [MILK](https://exchange.babyswap.finance/#/swap?outputCurrency=0xBf37f781473f3b50E82C668352984865eac9853f)                   | [BABY](https://exchange.babyswap.finance/#/swap?outputCurrency=0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657) |              | 50 BABY             |
-| [Mafagafo](https://mafagafo.com/)  | MP                   | Mafagafo NFT |              | 1 GAME PASS             |
+| [Turtle Racing](https://www.turtleracing.io/)  | [TURT](https://bscscan.com/token/0xE786d5a4b985bfe5E371F8e94413cFb440f6618a)                   |  | 375 TURT             | 12 TURT             |
+| [Sunflower Farmers](https://sunflower-farmers.com/)  | [SFF](https://polygonscan.com/token/0xdf9B4b57865B403e08c85568442f95c26b7896b0#balances)                   |  | ? SFF              |             |
+| [The Crypto You](https://thecryptoyou.io/home)  | [MILK](https://exchange.babyswap.finance/#/swap?outputCurrency=0xBf37f781473f3b50E82C668352984865eac9853f)                   | [BABY](https://exchange.babyswap.finance/#/swap?outputCurrency=0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657) | 50 BABY             |              |
+| [Mafagafo](https://mafagafo.com/)  | MP                   | Mafagafo NFT |              | 1 GAME PASS (MafaCoins)            |
 
 
+
+| Failed Games                                           | Token                                                                                         | Token 2 | Initial Cost | Daily Income | Other                                         |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------|---------|--------------|--------------|-----------------------------------------------|
+| [Zodiacs](https://www.zodiacs.me)             | [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)                   |         | 3500 ZDC     |              |                                               |
+| [Z Plane](https://www.zplane.me/)             | [ZPL](https://bscscan.com/token/)                   |         | 210 ZPL     |              |                                               |
 
 
 
 
 ## Listed
-[CoinMarketCap](https://coinmarketcap.com/)
-[CoinGecko](https://www.coingecko.com/pt)
+- [CoinMarketCap](https://coinmarketcap.com/)
+- [CoinGecko](https://www.coingecko.com/pt)
 
 ## DEX (Descentralized Exchange)
 - [PancakeSwap](https://pancakeswap.finance/swap)
