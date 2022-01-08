@@ -29,6 +29,11 @@
 | [Mafagafo](https://mafagafo.com/)  | MP                   | Mafagafo NFT |              | 1 GAME PASS (MafaCoins)            |
 | [Crypto Godz](https://cryptogodz.io/)  | [GODZ](https://bscscan.com/token/0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43)                   |  |              |              |
 | [Illuvium](https://www.illuvium.io/)  | [ILV](https://www.binance.com/en/trade/ILV_USDT)                   |  |              |             |
+| [Metastrike](https://metastrike.io/)  | [MTS]()                   |  | [MTT]()             |             |
+| [Heroes of Metaverse](https://heroesofmetaverse.io/)  | [HoM]()                   |  |              |             |
+| [Crypto Rockets](https://www.cryptorockets.me/)  | [CROCKET](https://bscscan.com/token/0xfb7d68be68f7d01c98472fdfb62ca2e10c6f6ee1)                   |  |              |             |
+
+
 
 
 
