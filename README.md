@@ -20,7 +20,7 @@
 | [Pegaxy](https://pegaxy.io/)                  | [PGX]()                                                                                       | [VIS]() |              |              |                                               |
 | [Space Crypto](https://www.spacecrypto.io/)   | [SPG](https://bscscan.com/token/0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1)                   | [SPE]() |              |              |
 | [Hero Cat](https://www.herocat.io/)   | [HCT](https://bscscan.com/token/0x29A1e54DE0fCE58E1018535d30aF77A9d2D940c4)                   |         |              |              |
-| [Crypto Ships](https://cryptoships.club/)     | [CSHIP](https://bscscan.com/token/)                   |         | 500 CSHIP             | 18 CSHIP             |
+| [Crypto Ships](https://cryptoships.club/)     | [CSHIP](https://bscscan.com/token/0x6218079f1a5d50d3a8358093699b9943a662ef7c)                   |         | 500 CSHIP             | 18 CSHIP             |
 | [Rise City](https://risecity.io/)             | []()                   |  |              |              |
 | [Heroes Empires](https://heroesempires.com/)  | [HE](https://bscscan.com/token/0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8)                   |  |              |              |
 | [Turtle Racing](https://www.turtleracing.io/)  | [TURT](https://bscscan.com/token/0xE786d5a4b985bfe5E371F8e94413cFb440f6618a)                   |  | 375 TURT             | 12 TURT             |
