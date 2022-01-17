@@ -31,6 +31,13 @@
 | [Metastrike](https://metastrike.io/)  | [MTS]()                   |  | [MTT]()             |             |
 | [Heroes of Metaverse](https://heroesofmetaverse.io/)  | [HoM]()                   |  |              |             |
 | [Crypto Rockets](https://www.cryptorockets.me/)  | [CROCKET](https://bscscan.com/token/0xfb7d68be68f7d01c98472fdfb62ca2e10c6f6ee1)                   |  |              |             |
+| [Clash of Cars](https://clashofcars.io/)  | []()                   |  |              |             |
+| [Elef World](https://www.elefworld.com/)  | [ELEF](https://bscscan.com/token/0xd4d03e510b382244b2289637b5f7d9067bcaae85)                   |  |              |             |
+| [Worker Town](https://worker.town/)  | []()                   |  |              |             |
+| [Crypto Rocket Launch](https://cryptorocketlaunch.me/)  | []()                   |  |              |             |
+| [Crypto Motorcycle](https://cryptomotorcycle.me/)  | [CMC](https://bscscan.com/token/0x8255e7b6fd3467adf0c092a18ae01879627a9755)                   |  |              |             |
+| [Monster Quest](https://monsterquest.io/)  | []()                   |  |              |             |
+| [Worker Town](https://worker.town/)  | []()                   |  |              |             |
 
 
 
