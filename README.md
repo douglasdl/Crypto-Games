@@ -9,9 +9,6 @@
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------|---------|--------------|--------------|-----------------------------------------------|
 | [Bomb Crypto](https://bombcrypto.io/)         | [Bomber Coin (BCOIN)](https://bscscan.com/address/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D) |         | 10 BCOIN     | 0.2 BCOIN             | [Simulator](https://bombcryptosimulator.com/) |
 | [Thetan Arena](https://thetanarena.com/)      | [Thetan Gem (THG)](https://bscscan.com/address/0x9fd87aefe02441b123c3c32466cd9db4c578618f)    |         | Free         |              |                                               |
-| [Crypto Cars](https://cryptocars.me/)         | [CCAR](https://bscscan.com/token/0x50332bdca94673f33401776365b66cc4e81ac81d)                  |         | 620 CCAR     | 18 CCAR      |                                               |
-| [Crypto Planes](https://cryptoplanes.me/)     | [CPAN](https://bscscan.com/token/0x04260673729c5f2b9894a467736f3d85f8d34fc8)                  |         | 505 CPAN     | 18 CPAN        |                                               |
-| [Crypto Guards](https://cryptoguards.me/)     | [CGAR](https://bscscan.com/token/0x432C7cf1dE2b97a013f1130f199ed9d1363215BA)                  |         | 250 CGAR     |              |                                               |
 | [Turtle Racing](https://www.turtleracing.io/)  | [TURT](https://bscscan.com/token/0xE786d5a4b985bfe5E371F8e94413cFb440f6618a)                   |  | 375 TURT             | 12 TURT             |
 | [Meta Soccer](https://metasoccer.com/)        | [MSU](https://polygonscan.com/token/0xe8377a076adabb3f9838afb77bee96eac101ffb1)               |         |              |              |                                               |
 | [Genopets](https://www.genopets.me/)          | [GENE]()                                                                                      | [KI]()  |              |              |                                               |
@@ -51,6 +48,9 @@
 | [Zodiacs](https://www.zodiacs.me)             | [ZDC](https://bscscan.com/token/0x5649e392a1bac3e21672203589adf8f6c99f8db3)                   |         | 3500 ZDC     |              |                                               |
 | [Z Plane](https://www.zplane.me/)             | [ZPL](https://bscscan.com/token/)                   |         | 210 ZPL     |              |                                               |
 | [Sunflower Farmers](https://sunflower-farmers.com/)  | [SFF](https://polygonscan.com/token/0xdf9B4b57865B403e08c85568442f95c26b7896b0#balances)                   |  | ? SFF              |             |
+| [Crypto Cars](https://cryptocars.me/)         | [CCAR](https://bscscan.com/token/0x50332bdca94673f33401776365b66cc4e81ac81d)                  |         | 620 CCAR     | 18 CCAR      |                                               |
+| [Crypto Planes](https://cryptoplanes.me/)     | [CPAN](https://bscscan.com/token/0x04260673729c5f2b9894a467736f3d85f8d34fc8)                  |         | 505 CPAN     | 18 CPAN        |                                               |
+| [Crypto Guards](https://cryptoguards.me/)     | [CGAR](https://bscscan.com/token/0x432C7cf1dE2b97a013f1130f199ed9d1363215BA)                  |         | 250 CGAR     |              |                                               |
 
 
 
